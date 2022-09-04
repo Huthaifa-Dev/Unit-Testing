@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Huthaifa-Dev/Unit-Testing#readme",
   "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10",
+    "babel-jest": "^29.0.2",
     "jest": "^29.0.2"
   }
 }
