@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <img src=\"https://user-images.githubusercontent.com/62269745/174906065-7bb63e14-879a-4740-849c-0821697aeec2.png#gh-light-mode-only\" width=\"40%\">\r     <img src=\"https://user-images.githubusercontent.com/62269745/174906068-aad23112-20fe-4ec8-877f-3ee1d9ec0a69.png#gh-dark-mode-only\" width=\"40%\">\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huthaifa-Dev/Unit-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huthaifa-Dev/Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/Huthaifa-Dev/Unit-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
